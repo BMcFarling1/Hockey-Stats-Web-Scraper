@@ -23,6 +23,9 @@ This tool automates multi-page data extraction from `scrapethissite.com` without
 
 ## Build and Execution
 
+## Output Format
+Team Name, Year, Wins, Losses, Win Pct, Goals For (GF), Goals Against (GA), Goal Differential
+
 Compile the code with `libcurl` linked:
 
 ```bash
