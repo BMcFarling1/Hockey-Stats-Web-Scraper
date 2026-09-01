@@ -21,10 +21,10 @@ This tool automates multi-page data extraction from `scrapethissite.com` without
   * Ubuntu/Debian: `sudo apt-get install libcurl4-openssl-dev`
   * macOS: `brew install curl`
 
-## Build and Execution
-
 ## Output Format
 Team Name, Year, Wins, Losses, Win Pct, Goals For (GF), Goals Against (GA), Goal Differential
+
+## Build and Execution
 
 Compile the code with `libcurl` linked:
 
